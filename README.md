@@ -1,4 +1,4 @@
-# Luogu
+# 代码的天堂
 
 简体中文 | [English](./README_en.md)
 
@@ -8,7 +8,7 @@
 
 ### 介绍
 
-洛谷题解，记录自己的洛谷解题之路。
+各评测系统题解，记录自己的解题之路。
 
 本库现在分为以下四个部分：
 
@@ -66,7 +66,6 @@
 
 #### 精选题目
 
-
 ### 交流群
 
 >因为现在还是初级阶段等种种原因，我们还是暂先选用QQ群作为交流媒介
@@ -87,6 +86,6 @@ QQ群号：[864265068](https://jq.qq.com/?_wv=1027&k=5GIj36O)
 - 如果想贡献代码，请提[Pulls](https://github.com/Evilrabbit520/Hall/pulls)
 - 如果需要修改项目中图片，[这里](./assets/drawio/)存放了项目中绘制图的源文件， 大家可以用[draw.io](https://www.draw.io/)打开进行在线编辑。
 
-### License
+### 执照
 
 [Apache-2.0](./LICENSE.txt)
