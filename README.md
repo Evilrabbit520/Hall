@@ -81,10 +81,10 @@ QQ群号：[864265068](https://jq.qq.com/?_wv=1027&k=5GIj36O)
 
 ### 贡献
 
-项目共享参阅[贡献榜](https://github.com/Evilrabbit520/Luogu/graphs/contributors)，感谢您对开源社区和本项目的支持，我们会不定期对贡献榜中部分成员进行实物奖励。
+项目共享参阅[贡献榜](https://github.com/Evilrabbit520/Hall/graphs/contributors)，感谢您对开源社区和本项目的支持，我们会不定期对贡献榜中部分成员进行实物奖励。
 
-- 如果有想法和创意，请提[issue](https://github.com/Evilrabbit520/Luogu/issues)或者进群提
-- 如果想贡献代码，请提[Pulls](https://github.com/Evilrabbit520/Luogu/pulls)
+- 如果有想法和创意，请提[issue](https://github.com/Evilrabbit520/Hall/issues)或者进群提
+- 如果想贡献代码，请提[Pulls](https://github.com/Evilrabbit520/Hall/pulls)
 - 如果需要修改项目中图片，[这里](./assets/drawio/)存放了项目中绘制图的源文件， 大家可以用[draw.io](https://www.draw.io/)打开进行在线编辑。
 
 ### License
