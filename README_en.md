@@ -61,6 +61,7 @@ The data structure is mainly as follows:
 **Moderate difficulty**
 
 - [Luogu_Road to happinessP1556](./Analysis/medium/2019-08-23_幸福之路P1556.md) 🆙
+- [Leetcode_145Binary tree post-order traversal](./Analysis/Data-structure-and-algorithm-code/2019-08-24_144二叉树的前序遍历.md) ✔
 
 **Difficult difficulty**
 
@@ -68,7 +69,7 @@ The data structure is mainly as follows:
 
 #### Summary of data structures and algorithms
 
-- [Hybrid of binary tree](./Analysis/DataStructureAndAlgorithm/二叉树的遍历.md)
+- [Hybrid of binary tree](./Analysis/DataStructureAndAlgorithm/二叉树的遍历.md) ✔
 
 #### Featured topics
 
