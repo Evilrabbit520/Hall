@@ -68,6 +68,8 @@ The data structure is mainly as follows:
 
 #### Summary of data structures and algorithms
 
+- [Hybrid of binary tree](./Analysis/DataStructureAndAlgorithm/二叉树的遍历.md)
+
 #### Featured topics
 
 ### group chat
@@ -87,7 +89,7 @@ For project sharing, please refer to the [Contribution List] (https://github.com
 
 - If you have ideas and ideas, please mention [issue] (https://github.com/Evilrabbit520/Hall/issues) or enter the group
 - If you want to contribute code, please mention [Pulls] (https://github.com/Evilrabbit520/Hall/pulls)
-- If you need to modify the picture in the project, [here] (./assets/drawio/) stores the source file of the drawing in the project, you can open it with [draw.io](https://www.draw.io/) Make online edits.
+- If you are posting a new topic, please use [Title Template] (./template/Template.md)
 
 ### License
 
@@ -96,3 +98,4 @@ For project sharing, please refer to the [Contribution List] (https://github.com
 ---
 
 Stay tuned, you can also help us to tell us about your [translated version](https://github.com/Evilrabbit520/Luogu/pulls).
+

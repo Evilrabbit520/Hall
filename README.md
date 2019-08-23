@@ -68,6 +68,8 @@
 
 #### 数据结构与算法的总结
 
+- [二叉树的遍历](./Analysis/DataStructureAndAlgorithm/二叉树的遍历.md)
+
 #### 精选题目
 
 ### 交流群
@@ -89,7 +91,6 @@ QQ群号：[864265068](https://jq.qq.com/?_wv=1027&k=5GIj36O)
 - 如果有想法和创意，请提[issue](https://github.com/Evilrabbit520/Hall/issues)或者进群提
 - 如果想贡献代码，请提[Pulls](https://github.com/Evilrabbit520/Hall/pulls)
 - 如果发布新题目请使用[题目模板](./template/Template.md)
-- 如果需要修改项目中图片，[这里](./assets/drawio/)存放了项目中绘制图的源文件， 大家可以用[draw.io](https://www.draw.io/)打开进行在线编辑。
 
 ### 执照
 
