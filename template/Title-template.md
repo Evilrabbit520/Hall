@@ -1,5 +1,5 @@
 # 题目(topic)
-> 常在区域会使用中英双语，题目区域请自行翻译(English and Chinese are often used in the region. Please translate the topic area.)    <!--此句话必须存在(This sentence must exist)-->
+> 常在区域会使用中英双语，题目区域请自行翻译(English and Chinese are often used in the region. Please translate the topic area).    <!--此句话必须存在(This sentence must exist)-->
 
 ### 题目信息(Topic information)
 
