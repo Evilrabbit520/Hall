@@ -56,11 +56,15 @@ The data structure is mainly as follows:
 
 **Simple difficulty**
 
+- [Luogu_Draw Super Mario P1000](./Analysis/simple/2019-08-23_绘制超级马里奥P1000.md) ✔
+
 **Moderate difficulty**
 
-- [Luogu_Road to happinessP1556](./Analysis/medium/2019-08-23_幸福之路P1556.md) ✔
+- [Luogu_Road to happinessP1556](./Analysis/medium/2019-08-23_幸福之路P1556.md) 🆙
 
 **Difficult difficulty**
+
+**Hell difficulty**
 
 #### Summary of data structures and algorithms
 
