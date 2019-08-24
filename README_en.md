@@ -65,11 +65,13 @@ The data structure is mainly as follows:
 
 **Difficult difficulty**
 
+- [Luogu _ diversion into the cityP1514](./Analysis/Data-structure-and-algorithm-code/2019-08-24_144二叉树的前序遍历.md) ✔
+
 **Hell difficulty**
 
 #### Summary of data structures and algorithms
 
-- [Hybrid of binary tree](./Analysis/DataStructureAndAlgorithm/二叉树的遍历.md) ✔
+- [Hybrid of binary tree](./Analysis/DataStructureAndAlgorithm/二叉树的遍历.md) 🆙
 
 #### Featured topics
 
