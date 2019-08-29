@@ -75,6 +75,10 @@ The data structure is mainly as follows:
 
 #### Featured topics
 
+#### Featured article
+
+- [C++ class & object](./article/ClassAndObject.md) ✔
+
 ### group chat
 
 >Because of the various reasons such as the initial stage, we still use the QQ group as the communication medium for the time being.
