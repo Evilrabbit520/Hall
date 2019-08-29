@@ -3,8 +3,13 @@
 [简体中文](./README.md) | English
 
 ---
+[![](https://img.shields.io/badge/QQ-864265068-ff79bc.svg?colorA=2894ff)](https://jq.qq.com/?_wv=1027&k=5dryjOZ "Click to join QQ group chat")
+[![Error](https://img.shields.io/github/issues/Evilrabbit520/Hall/Error.svg?colorB=000000)](https://github.com/Evilrabbit520/Hall/issues "Click to report error")
+![](https://img.shields.io/badge/language-C++-000000.svg)
+[![](https://img.shields.io/badge/license-Apache2.0-000000.svg)](./LICENSE.txt "Click to view open source agreement")
 
-This is the unofficial code analysis library of Luogu and other evaluation systems. `In order to facilitate the students to refer to the problems that will not be mentioned, we will explain the algorithms and processes in detail for everyone`. We are interested to have a look. If you are interested in this project, please click on Star, the project will be updated for a long time, thank you for your support.
+
+This is the unofficial code analysis library of the more popular online evaluation system (such as Luogu, LeetCode, CCF programming online evaluation system, etc.), computer programming guide library, algorithm analysis library, industry major news / news push library , `In order to facilitate the students to refer to the questions that will not be, we will explain the algorithm and process in detail for everyone.` We are interested to see if you are interested in this project, please click on Star, the project will Long-term update, thank you for your support.
 
 ### Introduction
 
@@ -12,10 +17,11 @@ Each evaluation system solves the problem and records its own solution.
 
 The library is now divided into the following four sections:
 
-1. Luogu title answer algorithm and analysis;
+1. Evaluation system title answer algorithm and analysis;
 2. Algorithm diagram;
 3. Featured Topic Pushing `One Daily Question is an activity in the exchange group (QQ or other). Let's solve a problem together, so that the discussion questions are more concentrated and more feedback will be obtained. And these questions can be recorded, and the problem solving module added to the warehouse will be filtered in the future`;
-4. Plan `This will record the future to be added to the above three parts`;
+4. Selected algorithms/article recommendations;
+5. Plan `This will record the future to be added to the above three parts`;
 
 ### about me
 
