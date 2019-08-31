@@ -72,6 +72,7 @@
 **困难难度**
 
 - [洛谷_引水入城P1514](./Analysis/Data-structure-and-algorithm-code/2019-08-24_144二叉树的前序遍历.md) ✔
+- [2019-09-01_正则表达式匹配LeetCode10](./Analysis/diffficult/2019-09-01_正则表达式匹配LeetCode10.md) ✔
 
 **地狱难度**
 
