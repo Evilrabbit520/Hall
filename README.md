@@ -72,9 +72,8 @@
 **困难难度**
 
 - [洛谷_引水入城P1514](./Analysis/Data-structure-and-algorithm-code/2019-08-24_144二叉树的前序遍历.md) ✔
-- [2019-09-01_正则表达式匹配LeetCode10](./Analysis/difficult/2019-09-01_正则表达式匹配LeetCode10.md) ✔
-
-**地狱难度**
+- [正则表达式匹配LeetCode10](./Analysis/difficult/2019-09-01_正则表达式匹配LeetCode10.md) ✔
+- [最长公共前缀LeetCode14](./Analysis/difficult/2019-09-01_最长公共前缀LeetCode14.md) ✔
 
 #### 数据结构与算法的总结
 

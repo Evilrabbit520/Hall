@@ -72,9 +72,9 @@ The data structure is mainly as follows:
 **Difficult difficulty**
 
 - [Luogu _ diversion into the cityP1514](./Analysis/Data-structure-and-algorithm-code/2019-08-24_144二叉树的前序遍历.md) ✔
-- [2019-09-01_Regular expression matching_LeetCode10](./Analysis/difficult/2019-09-01_正则表达式匹配LeetCode10.md) ✔
+- [Regular expression matchingLeetCode10](./Analysis/difficult/2019-09-01_正则表达式匹配LeetCode10.md) ✔
+- [Longest common prefixLeetCode14](./Analysis/difficult/2019-09-01_最长公共前缀LeetCode14.md) ✔
 
-**Hell difficulty**
 
 #### Summary of data structures and algorithms
 
